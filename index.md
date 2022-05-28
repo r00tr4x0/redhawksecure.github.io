@@ -8,6 +8,4 @@ Mi misión es ayudar a personas interesadas en la tecnología e informática a c
 
 <html>
 	<head>
-		<title>RedHawkSecure's</title>
-<img src="/home/usuari/Escritorio/ID-100113293.jpg">
-<link rel="icon" type="image/x-icon" href="/home/usuari/Escritorio/logo favicon.png">
+		<p>hola como estas</p>
